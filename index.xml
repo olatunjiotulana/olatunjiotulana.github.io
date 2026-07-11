@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 07 Jul 2026 22:41:10 +0530</lastBuildDate>
+			<lastBuildDate>Fri, 10 Jul 2026 18:35:46 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Profile Gallery</title>
+				<link>http://localhost:1313/gallery/</link>
+				<pubDate>Fri, 10 Jul 2026 18:35:46 +0530</pubDate>
+				<guid>http://localhost:1313/gallery/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Is an Anonymous Survey Really Anonymous? A Data Ethics Perspective</title>
 				<link>http://localhost:1313/blogs/survey_ethic_new/</link>
@@ -26,13 +33,6 @@
 				<pubDate>Tue, 07 Jul 2026 22:41:10 +0530</pubDate>
 				<guid>http://localhost:1313/blogs/ai_ethic_blog_new-photo/</guid>
 				<description>&lt;p&gt;Artificial intelligence (AI) has quickly become embedded in the systems that shape modern life—from entertainment platforms and healthcare diagnostics to hiring tools and financial decision making.&lt;/p&gt;&#xA;&lt;p&gt;Because AI systems process vast amounts of data with speed and consistency, they are often perceived as objective. Yet this perception is misleading. AI systems can unintentionally reproduce or even intensify existing social inequalities, especially when they learn from biased human data.&#xA;Understanding how algorithmic bias emerges—and how fairness can be meaningfully integrated into AI development—is essential for anyone working with or studying intelligent systems. This article examines the roots of algorithmic bias, the ethical principles that guide responsible AI, and the governance and data practices needed to build systems worthy of public trust.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Image Gallery</title>
-				<link>http://localhost:1313/gallery/</link>
-				<pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
-				<guid>http://localhost:1313/gallery/</guid>
-				<description></description>
 			</item>
 	</channel>
 </rss>

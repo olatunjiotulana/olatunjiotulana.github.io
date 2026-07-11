@@ -2,17 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2026-07-07T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2026-07-07T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/survey_ethic_new/</loc>
-    <lastmod>2026-07-07T22:41:10+05:30</lastmod>
+    <loc>http://localhost:1313/gallery/</loc>
+    <lastmod>2026-07-10T18:35:46+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-07T22:41:10+05:30</lastmod>
+    <lastmod>2026-07-10T18:35:46+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -28,6 +22,15 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2026-07-07T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/example/</loc>
+    <lastmod>2026-07-07T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/survey_ethic_new/</loc>
+    <lastmod>2026-07-07T22:41:10+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/placeholder-text/</loc>
     <lastmod>2026-07-07T22:41:10+05:30</lastmod>
@@ -55,9 +58,6 @@
   </url><url>
     <loc>http://localhost:1313/blogs/ai_ethic_blog_new-photo/</loc>
     <lastmod>2026-07-07T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
-    <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
