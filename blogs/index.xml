@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 07 Jul 2026 22:41:10 +0530</lastBuildDate>
+			<lastBuildDate>Fri, 10 Jul 2026 18:35:46 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My Profile Gallery</title>
+				<link>http://localhost:1313/blogs/gallery_new/</link>
+				<pubDate>Fri, 10 Jul 2026 18:35:46 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/gallery_new/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Is an Anonymous Survey Really Anonymous? A Data Ethics Perspective</title>
 				<link>http://localhost:1313/blogs/survey_ethic_new/</link>
